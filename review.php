@@ -4,7 +4,7 @@
  * Description: Best Review Plugin. Customer reviews powered with shortcode to display both grid reviews and slider reviews.
  * Plugin URI: https://www.abnercalapiz.com/plugins/wp-reviews
  * Author: Abner Calapiz
- * Version: 1.0
+ * Version: 1.1
  * Author URI: https://www.abnercalapiz.com/
  */
  
